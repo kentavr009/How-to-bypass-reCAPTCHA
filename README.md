@@ -505,6 +505,6 @@ Also, do not forget to insert your API key into the code, instead of
     $siteKeyV2 = 'YOUR_SITE_KEY_V2';
     $urlV2 = 'https://example.com';
     ```
-
-    <p>Thus, using the examples given, you can solve most of the issues related to reCAPTCHA recognition. You can ask questions in the comments if there are any left!</p>
     
+    
+<p>Thus, using the examples given, you can solve most of the issues related to reCAPTCHA recognition. You can ask questions in the comments if there are any left!</p>
