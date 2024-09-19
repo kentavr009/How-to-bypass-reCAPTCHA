@@ -507,4 +507,4 @@ Also, do not forget to insert your API key into the code, instead of
     ```
     
     
-<p>Thus, using the examples given, you can solve most of the issues related to reCAPTCHA recognition. You can ask questions in the comments if there are any left!</p>
+
